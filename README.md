@@ -10,8 +10,8 @@
 
 **Última camada do BERTimbau (768)**
 
-[*Link para o Embedding Projector de Tokens com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/EmbeddingsProjectorClinicalTexts/master/NER/config_ner_token.json)
+[*Link para o Embedding Projector de Tokens com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config.json)
 
 ## Geração dos arquivos
 
-Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/nathancezar/EmbeddingsProjectorClinicalTexts/blob/master/Exemplos/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb
+Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: [3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1](https://github.com/nathancezar/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb)
