@@ -12,6 +12,8 @@
 
 [*Link para o Embedding Projector de Tokens com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config.json)
 
+* *Os arquivos da pasta "data" não foram enviados por conter conteúdo sensível.*
+
 ## Geração dos arquivos
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: [3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1](https://github.com/nathancezar/sri/blob/main/3_2_2_GerarArquivosProjecaoEmbeddingsToken_v1.ipynb)
