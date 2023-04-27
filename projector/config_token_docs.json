@@ -1,0 +1,10 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "SRI - Dados Clínicos - Tokens e Documentos - Embeddings Última camada BERTimbau",
+        "tensorShape": [19066, 768],
+        "tensorPath": "",
+        "metadataPath": ""
+      }
+    ]
+}

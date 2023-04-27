@@ -10,7 +10,9 @@
 
 **Última camada do BERTimbau (768)**
 
-[*Link para o Embedding Projector de Tokens com NER*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config.json)
+[*Link para o Embedding Projector com visuaização de embeddings de Tokens*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config.json)
+
+[*Link para o Embedding Projector com visualização de embeddings de Tokens e Documentos*](...)
 
 * *Os arquivos da pasta "data" não foram enviados por conter conteúdo sensível.*
 
