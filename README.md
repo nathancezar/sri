@@ -12,7 +12,7 @@
 
 [*Link para o Embedding Projector com visuaização de embeddings de Tokens*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config.json)
 
-[*Link para o Embedding Projector com visualização de embeddings de Tokens e Documentos*](...)
+[*Link para o Embedding Projector com visualização de embeddings de Tokens e Documentos*](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/nathancezar/sri/main/projector/config_token_docs.json)
 
 * *Os arquivos da pasta "data" não foram enviados por conter conteúdo sensível.*
 

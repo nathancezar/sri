@@ -3,8 +3,8 @@
       {
         "tensorName": "SRI - Dados Clínicos - Tokens e Documentos - Embeddings Última camada BERTimbau",
         "tensorShape": [19066, 768],
-        "tensorPath": "",
-        "metadataPath": ""
+        "tensorPath": "https://media.githubusercontent.com/media/nathancezar/sri/main/projector/DOALL_records_token_documento_768_base_POOL.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/nathancezar/sri/main/projector/DOALL_meta_token_documento_768_base_POOL.tsv"
       }
     ]
 }
